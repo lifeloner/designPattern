@@ -1,6 +1,0 @@
-design/state/SoldOutState.class
-design/state/GumballMachine.class
-design/state/SoldState.class
-design/state/State.class
-design/state/NoQuarterState.class
-design/state/HasQuarterState.class
